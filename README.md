@@ -1,3 +1,4 @@
 ### Per visionare il progetto completo
 
-Link al progetto completo: https://slider-tutorial.netlify.app/
+Link al progetto completo: https://reviews-slider-ex.netlify.app/
+
